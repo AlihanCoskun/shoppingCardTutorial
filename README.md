@@ -1,6 +1,6 @@
 # Shopping Card Tutorial
 
-This tutorial includes products and shopping card. The tutorial is developed only for learning purpose.
+This tutorial includes a React with TS app for displaying products and shopping card. The tutorial is developed only for learning purpose.
 
 ## Vite
 
